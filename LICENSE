@@ -1,0 +1,17 @@
+# Drift-Sense runtime and evaluation dependencies
+# Python computer-vision / semiconductor image localization
+
+# Numerical computing
+numpy>=2,<3
+
+# Computer vision
+opencv-python>=4.8,<5
+
+# Image loading, saving and metadata
+Pillow>=12,<13
+tifffile>=2024,<2027
+
+# Evaluation and resource measurement
+scipy>=1.11,<2
+matplotlib>=3.8,<4
+psutil>=5.9,<8
