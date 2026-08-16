@@ -1,0 +1,18 @@
+{
+  "sample_id": "demo_dram",
+  "architecture": "dram",
+  "gt_center": [
+    275.25436957280533,
+    597.9392160006082
+  ],
+  "rotation_deg": 12.0,
+  "scale_ratio": 1.08,
+  "predicted_center": [
+    275.4988098144531,
+    598.1265258789062
+  ],
+  "status": "ok",
+  "error_px": 0.30795457821707695,
+  "score": 0.7049029099561407,
+  "runtime_ms": 287.1023260004222
+}
